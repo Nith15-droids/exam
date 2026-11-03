@@ -3,3 +3,5 @@ Hello All
 Welcome to Git and GitHub.
 
 Learning DevOps.
+
+This is the updated content from branch1.
